@@ -1,0 +1,31 @@
+# Number Guessing Game In Python
+# By: Corey Olley
+
+import random
+
+# Random Number And User Input
+x = random.randint(1,99)
+y = int(input('Please guess a whole number between 1 and 99! If you guess outside of 1 and 99 you are wasting your own time!:  '))
+
+# If The Player Is Wrong
+while x!=y:
+    if x < y:
+        print('Nice try, but go lower!')
+        y = int(input('Please guess another whole number between 1 and 99!:  '))
+    elif y < x:
+        print('Nice try, but go higher!')
+        y = int(input('Please guess another whole number between 1 and 99!:  '))
+
+# If Player Is Correct
+while x == y:
+    print('YAY! YOU GUESSED THE NUMBER CORRECTLY!')
+    break
+
+
+
+
+
+
+
+
+
