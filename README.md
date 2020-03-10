@@ -9,3 +9,5 @@ I have python 3.8 and pycharm running to play the game.
 
 HANGMAN-
 Again, the hangman game is just for fun and this game is just guessing letters in an animals name until you guess the correct animal. You have 5 tries to guess the animal the computer randomly selected from my list.
+
+I have python 3.8 and pycharm running to play the game. 
