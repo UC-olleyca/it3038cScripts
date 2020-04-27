@@ -18,4 +18,4 @@ ________________________________________________________________________________
 Project 3: Typing Speed Test-
 This typing speed test is pretty simple, the player runs the program and it gives them a sentence they must type and grades them on speed, accuracy, and words per minute based on calculations. It pulls from a text file that I put 40 some sentences into and there is a reset button to continue playing without having to rerun the script everytime. 
 
-In order to run this, you must have pygame package installed or use pygame as your interpreter. I used python 3.8 and pycharm while having the pygame library installed. The background, start, and icon images are needed to run this as well. 
+In order to run this, you must have pygame package installed or use pygame as your interpreter. I used python 3.8 and pycharm while having the pygame library installed. The background, start, and icon images are needed to run this as well. Having the sentences text file is also importnant to have because then the game could not generate sentences. 
